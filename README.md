@@ -3,8 +3,9 @@
 
 Highlight of the project: Custom re-usable `<Accordion />` component  
 
+[Click here to view Live ->](https://clever-strudel-c294bf.netlify.app/)
 
-### Steps to run the project
+### Steps to run the project locally
 -----------------------------
 
 `npm install`
